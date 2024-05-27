@@ -3,18 +3,28 @@
   "description": "RJ Rojgaar app. Find job seekers and job searchers in India.",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Rj Rojgaar",
+  "name": "RJ Rojgaar",
   "orientation": "portrait",
   "scope": "/",
-  "short_name": "Rj Roojgar",
+  "short_name": "RJ Rojgaar",
   "start_url": "/",
   "theme_color": "#ffffff",
+  "lang": "en",
   "icons": [
     {
-      "src": "./images/rj-logo-600x600.jpg",
+      "src": "./images/rojgaar-logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./images/rj-roojgar-logo-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "./images/rj-logo-600x600.png",
       "type": "image/jpeg",
       "sizes": "600x600"
     }
-  ],
-  "id": "rjroojgar"
+  ]
 }
