@@ -11,9 +11,9 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "./images/rj-roojgar-logo-512.jpg",
+      "src": "./images/rj-logo-600x600.jpg",
       "type": "image/jpeg",
-      "sizes": "512x512"
+      "sizes": "600x600"
     }
   ],
   "id": "rjroojgar"
