@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.rjrojgaar.twa",
-        "sha256_cert_fingerprints": ["2A:95:9E:2A:3B:87:93:F1:01:7D:AF:59:66:D0:08:8F:C5:04:23:11:71:05:9E:2E:B2:ED:42:F0:8D:DA:C5:E6"]
-      }
-    }]
