@@ -1,5 +1,5 @@
 from django.conf.urls.static import static
-from ..main import settings
+from django.conf import settings
 from django.urls import path
 from .views import index, about, why, services, intro, assetlinks_json
 
